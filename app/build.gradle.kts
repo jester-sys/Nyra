@@ -71,4 +71,8 @@ dependencies {
     implementation(libs.androidx.navigation.compose)
     implementation(libs.accompanist.navigation.animation)
     implementation(libs.accompanist.navigation.material)
+
+    //Shimmer Effect
+    implementation(libs.compose.shimmer)
+    implementation(libs.accompanist.systemuicontroller)
 }
